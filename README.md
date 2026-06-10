@@ -1,4 +1,4 @@
-\# Telecom Critical Infrastructure Risk Assessment
+# Telecom Critical Infrastructure Risk Assessment
 
 
 
@@ -6,19 +6,19 @@
 
 
 
-\## Client
+## Client
 
 A major telecommunications operator (anonymized for confidentiality)
 
 
 
-\## My Role
+## My Role
 
 \*\*Technical Risk Assessment\*\* – External port scanning, vulnerability identification, MITRE ATT\&CK mapping.
 
 
 
-\## Methodology
+## Methodology
 
 \- External port scanning using Nmap on authorized public-facing IP ranges
 
@@ -28,7 +28,7 @@ A major telecommunications operator (anonymized for confidentiality)
 
 
 
-\## Key Findings
+## Key Findings
 
 
 
@@ -45,8 +45,7 @@ A major telecommunications operator (anonymized for confidentiality)
 | 161/udp | SNMP | MEDIUM | T1046 |
 
 
-
-\## Analysis Summary
+## Analysis Summary
 
 \- \*\*FTP (Port 21):\*\* Plaintext protocol – credentials vulnerable to interception
 
@@ -58,13 +57,13 @@ A major telecommunications operator (anonymized for confidentiality)
 
 
 
-\## Files
+## Files
 
 \- `/reports/` – Full risk assessment report (anonymized)
 
 
 
-\## Tools Used
+## Tools Used
 
 \- Nmap
 
