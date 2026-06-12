@@ -54,7 +54,7 @@ A major telecommunications operator (anonymized for confidentiality)
 
 ## Files
 
-- `/reports/` – Full risk assessment report (anonymized)
+- `reports` – Full risk assessment report (anonymized)
 
 
 
