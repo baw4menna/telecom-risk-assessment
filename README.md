@@ -54,7 +54,7 @@ A major telecommunications operator (anonymized for confidentiality)
 
 ## Files
 
-- `reports` – Full risk assessment report (anonymized)
+- [`reports`](https://github.com/baw4menna/telecom-risk-assessment/tree/main/reports) – Full risk assessment report (anonymized)
 
 
 
